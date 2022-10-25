@@ -1,0 +1,24 @@
+.menu {
+  color: #fff;
+}
+
+.menu ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 11px;
+  display: block;
+  text-transform: capitalize;
+}
+.menu ul li a:hover {
+  background-color: rgb(60, 60, 60);
+}
+.menu ul {
+  list-style: none;
+  padding-left: 8px;
+}
+h2.dashboard-title {
+  text-transform: capitalize;
+  color: #fff;
+  padding: 10px;
+  border-bottom: 1px solid #fff;
+}
